@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(132,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(109,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(220,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(200,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(308,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(288,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(396,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hayden\source\repos\Final Project C++\Final Project C++\Source.cpp(376,6): warning C4101: 'choice': unreferenced local variable
+  Final Project C++.vcxproj -> C:\Users\Hayden\source\repos\Final Project C++\x64\Debug\Final Project C++.exe
